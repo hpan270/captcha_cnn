@@ -3,4 +3,4 @@ This folder contains,
 - captcha image generator py file
 - parameter py file
 - cnn structure file
-- the weights file and code
+
